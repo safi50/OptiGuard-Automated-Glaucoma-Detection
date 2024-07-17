@@ -11,7 +11,9 @@ Glaucoma is a leading cause of blindness that requires early diagnosis. This pro
 Timely & accurate glaucoma detection is a challenge. Manual methods cause treatment 3. delays. This project aims to address this need with an automated explainable CNN system.
 ## Development Methodology
 1. Utilizes the G1020 dataset for training. RFIs are preprocessed and augmented for variability. Detectron2 with Mask RCNN and ResNet-50 backbone is employed for OD and OC segmentation, validated with Average Precision metrics. Computes diagnostic metrics like CDR and NRR area.
-2.Uses the SMDG-19 dataset, preprocessed with resizing, normalization, and augmentation including Histogram Equalization and CLAHE. Focuses on OD and OC regions identified by the segmentation module. Trains EfficientNet-B0 with Cross-Entropy loss and Adam optimizer, addressing class imbalance with weighted sampling.
+
+2. Uses the SMDG-19 dataset, preprocessed with resizing, normalization, and augmentation including Histogram Equalization and CLAHE. Focuses on OD and OC regions identified by the segmentation module. Trains EfficientNet-B0 with Cross-Entropy loss and Adam optimizer, addressing class imbalance with weighted sampling.
+
 3. Finally, Grad-CAM, Attention Mechanisms and LLM are employed for result explainability and interpretability.
 
 ## Technologies Used
