@@ -3,7 +3,11 @@
 This repository is a part of my final year project in the domain of Deep Learning, Explainable AI, and AI in Healthcare submitted to **the National University of Sciences & Technology (NUST)**. The project details are given below:
 
 ## 0. Project Demo:
-https://drive.google.com/file/d/1aPLS0BRL4FcaeCkvHFiDAtbwQ2lEFaOu/view?usp=sharing
+[Link to Drive](https://drive.google.com/file/d/1aPLS0BRL4FcaeCkvHFiDAtbwQ2lEFaOu/view?usp=sharing)
+
+https://github.com/user-attachments/assets/fee2ff44-7264-4df8-a775-42662ceec8e3
+
+
 
 ## 1. Abstract
 Glaucoma is a leading cause of blindness that requires early diagnosis. This project introduces a generalized, attention driven & explainable system for early glaucoma classification using retinal fundus images via Convolutional Neural Networks (CNNs).
