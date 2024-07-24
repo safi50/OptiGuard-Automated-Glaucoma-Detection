@@ -33,12 +33,6 @@ Timely & accurate glaucoma detection is a challenge. Manual methods cause treatm
 1. G1020 Dataset : https://www.kaggle.com/datasets/arnavjain1/glaucoma-datasets
 2. SMDG Dataset : https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset
 
-## License
-
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to use, distribute, and share this work for non-commercial purposes under the following conditions:
-- **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial:** You may not use the material for commercial purposes.
-- **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 ## Note:
 This project was successfully completed with contributions from: 
